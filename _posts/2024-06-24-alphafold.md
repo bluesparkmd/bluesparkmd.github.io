@@ -5,4 +5,4 @@ AlphaFold 3 (AF3) is a groundbreaking AI model that has revolutionized the field
 
 [Accurate structure prediction of biomolecular interactions with AlphaFold 3](https://www.nature.com/articles/s41586-024-07487-w)
 
-[Alphafold-Google] (https://deepmind.google/technologies/alphafold/)
+[Alphafold-Google](https://deepmind.google/technologies/alphafold/)
