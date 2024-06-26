@@ -1,3 +1,3 @@
 
 
-Just some musing I find interesting.
+Just some musings I find interesting.
