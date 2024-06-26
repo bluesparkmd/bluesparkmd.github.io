@@ -1,13 +1,13 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: "AIMED137"
+author: "BluesparkMD"
+description: "Just some thoughs on AI and Medicine. 137 is the 1/fine structure constant. What is it - just a mystery. I like to think of 137 as the ratio of photon energies and electrostatic energies. Another way to look at 137 as the ratio of the fundamental quatum of resistance (12900 ohms) and the impedence of free space (377 ohms) You need to put in a factor of 4 to get 137 but you get the idea. It's something about photons and electrons." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#email: "example@mail.com"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
