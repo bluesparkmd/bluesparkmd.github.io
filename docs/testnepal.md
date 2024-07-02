@@ -1,4 +1,6 @@
+# test title
 ## Day1 Kathmandu
+### test 2 title
 Today was my first arrival in Kathmandu. 
 Finally got this working-took forever :)
 ![Wow Kathmandu-finally here](/img/day1/kathmanduday1.jpg)
